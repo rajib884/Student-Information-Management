@@ -1,0 +1,16 @@
+BasedOnStyle:  Microsoft
+
+# AlignConsecutiveAssignments: true
+# AlignConsecutiveDeclarations: true
+# AllowAllArgumentsOnNextLine: true
+
+
+IndentCaseLabels: true
+IndentCaseBlocks: true
+
+KeepEmptyLinesAtTheStartOfBlocks: false
+
+ColumnLimit: 100
+
+IndentPPDirectives: BeforeHash
+AlignAfterOpenBracket: Align
